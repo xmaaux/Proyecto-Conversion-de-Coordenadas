@@ -1,0 +1,2 @@
+# No se requieren dependencias externas.
+# La interfaz usa Tkinter, incluido con la instalación estándar de Python.
